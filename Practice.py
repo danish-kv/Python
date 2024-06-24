@@ -38,3 +38,4 @@
 myList = [1,1,1,4,4,4,4,3,2,5]
 # print(myList.count(max(myList)))
 print(max(myList,key=myList.count))
+
